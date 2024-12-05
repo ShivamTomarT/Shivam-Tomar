@@ -7,3 +7,8 @@ Welcome to my GitHub profile! I'm passionate about data analytics and transformi
 - 💼 **Data Analyst** at Innovatiview India Ltd.
 - 🎯 **Aspiring Business Analyst**
 - 🎓 **CCC Certified** | **Excel, SQL, Power BI Expert**
+
+### Tools and Languages
+- ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
+- ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=database&logoColor=white)
+- ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=power-bi&logoColor=black)
