@@ -16,8 +16,8 @@ Welcome to my GitHub profile! I'm passionate about data analytics and transformi
 
 ## Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivam-singh-tomar)](https://www.linkedin.com/in/shivam-singh-tomar)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tomarsrp5@gmail.com)](mailto:tomarsrp5@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivam-singh-tomar--)](https://www.linkedin.com/in/shivam-singh-tomar--)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tomarspn5@gmail.com)](mailto:tomarspn5@gmail.com)
 
 Feel free to explore my repositories and reach out for collaboration opportunities or just to say hi! 😊
 
