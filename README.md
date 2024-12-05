@@ -14,3 +14,6 @@ Welcome to my GitHub profile! I'm passionate about data analytics and transformi
 - ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=database&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 - ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=power-bi&logoColor=black)
+
+
+- [**Biometric & Security Analysis Report**](#) - Analyzing data insights for security improvements in exams.
