@@ -11,4 +11,5 @@ Welcome to my GitHub profile! I'm passionate about data analytics and transformi
 ### Tools and Languages
 - ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
 - ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=database&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 - ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=power-bi&logoColor=black)
