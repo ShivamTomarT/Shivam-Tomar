@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about data analytics and transformi
 
 ### About Me
 - 💼 **Data Analyst** at Innovatiview India Ltd.
-- - 📈 **3.6 years of experience** in data analysis and reporting.
+- 📈 **3.6 years of experience** in data analysis and reporting.
 - 🎯 **Aspiring Business Analyst**
 - 🎓 **CCC Certified** | **Excel, SQL, Power BI Expert**
 
