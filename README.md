@@ -14,4 +14,17 @@ Welcome to my GitHub profile! I'm passionate about data analytics and transformi
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 - ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=power-bi&logoColor=black)
 
-### Projects
+## Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivam-singh-tomar)](https://www.linkedin.com/in/shivam-singh-tomar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tomarsrp5@gmail.com)](mailto:tomarsrp5@gmail.com)
+
+Feel free to explore my repositories and reach out for collaboration opportunities or just to say hi! 😊
+
+
+
+
+
+
+
+
